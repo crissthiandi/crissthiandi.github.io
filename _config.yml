@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Merida
@@ -53,17 +53,17 @@ social:
     - https://www.facebook.com/crissthiandi
     - https://www.linkedin.com/in/crissthiandi
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+#google_site_verification: google_meta_tag_verification # change to your verification string
 
 # ↑ --------------------------
 
 
-google_analytics:
-  id: ''              # fill in your Google Analytics ID
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+# google_analytics:
+#   id: ''              # fill in your Google Analytics ID
+#   # Google Analytics pageviews report settings
+#   pv:
+#     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+#     cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
