@@ -5,6 +5,7 @@ categories: [Sociedad, Vida]
 tags: [analisis,sociedad]     # TAG names should always be lowercase
 math: true
 mermaid: true
+comments: true
 ---
 
 <style>
@@ -61,3 +62,25 @@ Muchos tomadores de decisiones están &quot;Entrenados&quot; para optimizar recu
 
 Por último, **el qué se consume y el cómo algo es rentable, es la razón de que se genere tanto contenido que busca vendernos cosas**. Si somos más conscientes de esto y dejamos de buscar contenido gratuito para entretenernos, entonces más y mejor contenido se creará. Seremos mejor alimentados y a la larga estaremos en equilibrio.
 
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: 
+    * EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-crissthiandi-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
