@@ -64,18 +64,17 @@ Muchos tomadores de decisiones están [&quot; Entrenados [&quot; para optimizar 
 Por último: **El qué se consume y el cómo algo es rentable, es la razón de que se genere tanto contenido que busca vendernos cosas**. Si somos más conscientes de esto y dejamos de buscar contenido gratuito para entretenernos, entonces más y mejor contenido se creará. Seremos mejor alimentados y a la larga estaremos en equilibrio.
 
 {% if page.comments %}
+
 <div id="disqus_thread"></div>
+
 <script>
-    /*
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    
-    */
     var disqus_config = function () {
     // Replace PAGE_URL with your page's canonical URL variable
     this.page.url = "https://crissthiandi.github.io/posts/Eres_lo_que_comes/";  
     // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     this.page.identifier = "1_Eres_lo_que_comes"; 
     };
+
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://crissthiandi.disqus.com/embed.js';
@@ -83,5 +82,7 @@ Por último: **El qué se consume y el cómo algo es rentable, es la razón de q
     (d.head || d.body).appendChild(s);
     })();
 </script>
+
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 {% endif %}
