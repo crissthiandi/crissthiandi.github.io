@@ -69,13 +69,11 @@ Por último: **El qué se consume y el cómo algo es rentable, es la razón de q
 
 <script>
     var disqus_config = function () {
-    // Replace PAGE_URL with your page's canonical URL variable
     this.page.url = "https://crissthiandi.github.io/posts/Eres_lo_que_comes/";  
-    // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     this.page.identifier = "1_Eres_lo_que_comes"; 
     };
 
-    (function() { // DON'T EDIT BELOW THIS LINE
+    (function() { 
     var d = document, s = d.createElement('script');
     s.src = 'https://crissthiandi.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
