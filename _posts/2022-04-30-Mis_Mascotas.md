@@ -97,8 +97,8 @@ todayMarker off
 
 <script>
     var disqus_config = function () {
-    this.page.url = "https://crissthiandi.github.io/posts/Eres_lo_que_comes/";  
-    this.page.identifier = "1_Eres_lo_que_comes"; 
+    this.page.url = "https://crissthiandi.github.io/posts/Mis_Mascotas/";  
+    this.page.identifier = "2_Mis_Mascotas"; 
     };
 
     (function() { 
