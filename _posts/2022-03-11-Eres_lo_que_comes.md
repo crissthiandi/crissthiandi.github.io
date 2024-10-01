@@ -3,8 +3,6 @@ title: Eres lo que consumes
 date: 2022-03-14 21:00:01 +0530
 categories: [Sociedad, Vida]
 tags: [analisis,sociedad]     # TAG names should always be lowercase
-math: true
-mermaid: true
 comments: true
 ---
 
