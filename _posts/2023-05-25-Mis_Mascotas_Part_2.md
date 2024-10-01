@@ -1,5 +1,5 @@
 ---
-title: Tiempo y mascotas
+title: Tiempo y mascotas Parte 2
 date: 2023-05-25 20:00:01 +0530
 categories: [Sociedad, Vida]
 tags: [analisis,sociedad]     # TAG names should always be lowercase
