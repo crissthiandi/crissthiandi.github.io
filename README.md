@@ -27,3 +27,33 @@ The next list tries to list all technologies and get info about them.
 [ga]: https://docs.github.com/en/actions
 [RM]: https://rmarkdown.rstudio.com/
 [TV]: https://www.tidyverse.org/
+
+## Install in wsl or linux OS
+
+check has installed ruby 2.5.0 or higher, ruby gem, gcc, g++, make, and bundler
+
+```bash
+ruby -v
+gem -v
+gcc -v
+g++ -v
+make -v
+bundler -v
+jekyll -v
+```
+if not installed, install them, for example for bundler if i use ruby 2.7.0 the command is:
+
+```bash
+gem install bundler -v 2.4.22
+```
+
+is easy to install any dependency, just need to be patient and read the error messages. Sometimes the error messages are very clear and tell you what to do. Especially when you are using a ruby version minor that 3.0.0.
+
+## Run the project
+
+first you need to run installer dependencies and then run the project
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
