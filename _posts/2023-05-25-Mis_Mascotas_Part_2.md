@@ -18,20 +18,20 @@ Mis perros también definen mi vida.
 
 # Razón
 
-Desde que supere la etapa de no tolerar el olor, pelo y ruido de mis perros (el gato tuvo un ascenso a perro) he podido convivir con ellos de forma diaria y constante.
-Luego de lo que parecio un trial largo de adaptación, logre pasar la llamada fase de fuego y di un paso de mayor compromiso, me case con la dueña de los perros.
+Desde que superé la etapa donde sufria el olor, el pelo y el ruido de mis perros (el gato tuvo un ascenso a perro), he podido convivir con ellos de forma diaria y constante.
+Luego de lo que pareció un largo periodo de adaptación, logré pasar la llamada fase de fuego y di un paso de mayor compromiso: **me casé con la dueña de los perros**.
 
-La boda fue una fiesta grande y muy feliz, personas de mis extremos sociales tuvieron contacto y se divirtieron. Expuse mucho de mi vida, infancia y gustos al escrutinio de mis amigos, familiares e invitados.
+La boda fue una fiesta grande y muy feliz; personas de mis extremos sociales tuvieron contacto y se divirtieron. Expuse mucho de mi vida, infancia y gustos al escrutinio de mis amigos, familiares e invitados. Y la pase de maravilla.
 
-Forme lazos mas profundos con las personas que veo a diario y hasta con quienes veo cada 4 años como son mis abuelos/tios.
+Formé lazos más profundos con las personas que veo a diario y hasta con quienes veo cada 4 años, como mis abuelos y tíos.
 
-Conocí la vulnerabilidad y aunque no fue desagradable, si me supo extraño. Me di cuenta de que no estaba acostumbrado a exponerme tanto y a veces me sentía incomodo. Pero todo iba más alla de mi, era un evento para mi sabri y para mi familia.
+Conocí la vulnerabilidad y, aunque no fue desagradable, sí me resultó extraña. Me di cuenta de que no estaba acostumbrado a exponerme tanto y, a veces, me sentía incómodo siendo el centro de atención. Pero todo iba más allá de mí, era un evento para sabri y para la familia.
 
-Mis perras me han cambiado mucho, ya no piso el suelo como solia pisarlo, no huelo las cosas ni como de la misma forma, no veo nada de la misma forma. Se activaron sentimos de cuidado a estos animales y se crearon chistes de manada en mi vocabulario. Ahora tengo mi propia familia.
+Regresando al tema del post. Mis perras me han cambiado mucho. Ya no piso el suelo como solía hacerlo, no huelo ni como de la misma forma, no veo nada igual. Se activaron sentimientos de cuidado hacia ellas y se crearon chistes de manada en mi vocabulario. Ahora tengo mi propia familia nuclear.
 
 ## Cierre
 
-Actualmente mi distribución de tiempos es muy diferente, cambie de trabajo y laboro desde casa. Desarrollo proyectos que me enseñan más que los de mi antiguo trabajo y tengo más tiempo para mi familia y mascotas. Estoy más feliz.
+Actualmente, mi distribución de tiempos es muy diferente. Cambié de trabajo y laboro desde casa. Desarrollo proyectos que me enseñan más que los de mi antiguo trabajo, y tengo más tiempo para mi familia y mascotas. Estoy más feliz.
 
 ```mermaid
 
@@ -52,7 +52,7 @@ Dormir: 24:00, 8hrs
 todayMarker off
 
 ```
-La nueva meta sigue siendo tener una distribución de tiempo más variada. Aunque ahora tengo más tiempo para mi familia, siento que puedo hacer más cosas con ellos. 
+La meta 2024 sigue siendo tener una distribución de tiempo más variada. Aunque ahora tengo más tiempo para mi familia, siento que puedo hacer más cosas con ellos.
 
 ```mermaid
 
