@@ -30,7 +30,13 @@ The next list tries to list all technologies and get info about them.
 
 ## Install in wsl or linux OS
 
-check has installed ruby 2.5.0 or higher, ruby gem, gcc, g++, make, and bundler
+Run dependencies installer
+
+```bash
+sudo apt-get install ruby-full build-essential zlib1g-dev
+```
+
+Check has installed ruby 2.5.0 or higher, ruby gem, gcc, g++, make, and bundler
 
 ```bash
 ruby -v
@@ -41,13 +47,14 @@ make -v
 bundler -v
 jekyll -v
 ```
-if not installed, install them, for example for bundler if i use ruby 2.7.0 the command is:
+
+If any of dependencies is not installed, install using google, for example for bundler if i use ruby 2.7.0 the command is:
 
 ```bash
 gem install bundler -v 2.4.22
 ```
 
-is easy to install any dependency, just need to be patient and read the error messages. Sometimes the error messages are very clear and tell you what to do. Especially when you are using a ruby version minor that 3.0.0.
+Is easy to install any dependency, just need to be patient, do research and read the error messages. Sometimes the error messages are very clear and tell you what to do. Especially when you are using a ruby version minor that 3.0.0.
 
 ## Run the project
 
